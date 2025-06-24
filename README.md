@@ -84,7 +84,7 @@ Feel free to reach out for questions, feedback, or collaborations!
 
 * **Your Name:** José Ernesto Abreu
 * **Your Email:** abreujosernesto57@gmail.com
-* **GitHub:** [joseernesto-dev](https://github.com/joseernesto-dev/javascript-showcase)
+* **GitHub:** [joseernesto-dev](https://github.com/joseernesto-dev)
 
 ---
 
